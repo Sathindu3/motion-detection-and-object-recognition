@@ -80,3 +80,75 @@ C:\Users\wONd3r\Documents\GitHub\motion_object_detection\motion detection and ob
 C:\Users\wONd3r\Documents\GitHub\motion_object_detection\motion detection and object recognition\bin\Debug\zh-tw\ZedGraph.resources.dll
 C:\Users\wONd3r\Documents\GitHub\motion_object_detection\motion detection and object recognition\bin\Debug\haarcascade_frontalface_alt.xml
 C:\Users\wONd3r\Documents\GitHub\motion_object_detection\motion detection and object recognition\obj\Debug\motion_detection_and_object_recognition.frm_livedetection.resources
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\haarcascade_frontalface_alt.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\motion detection and object recognition.exe.config
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\motion detection and object recognition.exe
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\motion detection and object recognition.pdb
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Imaging.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Math.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Video.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Vision.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\Emgu.CV.UI.GL.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\Emgu.CV.World.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\FaceRecognition.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\OpenTK.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\OpenTK.GLControl.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Buffers.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Memory.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Text.Json.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.ValueTuple.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\ZedGraph.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Imaging.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Math.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Video.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\AForge.Vision.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\Emgu.CV.UI.GL.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\Emgu.CV.World.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\OpenTK.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\OpenTK.GLControl.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Buffers.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Memory.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Text.Json.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\System.ValueTuple.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\ZedGraph.xml
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion detection and object recognition.csproj.AssemblyReference.cache
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion_detection_and_object_recognition.Form1.resources
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion_detection_and_object_recognition.frm_captureImage.resources
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion_detection_and_object_recognition.frm_facerec.resources
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion_detection_and_object_recognition.frm_livedetection.resources
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion_detection_and_object_recognition.frm_motionDetect.resources
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion_detection_and_object_recognition.Properties.Resources.resources
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion detection and object recognition.csproj.GenerateResource.cache
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion detection and object recognition.csproj.CoreCompileInputs.cache
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion detection and object recognition.csproj.CopyComplete
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion detection and object recognition.exe
+C:\Users\wONd3r\Documents\GitHub\motion-detection-and-object-recognition\motion detection and object recognition\obj\Debug\motion detection and object recognition.pdb
